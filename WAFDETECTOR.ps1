@@ -13,8 +13,8 @@
 .EXAMPLE
     .\WAF-Detector.ps1 -Url https://example.com -OutputFile results.json
 .NOTES
-    Author: Script Generator
-    Version: 1.0
+    Author: Harsh Akar
+    Version: 1.0.0
     Date: March 31, 2025
 #>
 
